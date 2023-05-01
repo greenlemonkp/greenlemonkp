@@ -1,5 +1,5 @@
 
-<h1>Hi, there! </h1> I'm Joon, self-motivated Full-stack developer  
+<h1>Hi, there! 안녕하세요!</h1> I'm Joon, self-motivated Full-stack developer  
 
 <br><br>![35166-4-doraemon-transparent-picture-thumb](https://user-images.githubusercontent.com/110060709/235487880-782a4b9e-6ed3-4dd6-99ef-52889e9741c9.png)<br>
 🔭 I’m currently working on a new project using React JS<br>👯 I’m looking to collaborate on any projects that involve new skills<br>🌱 I’m currently learning Typescript and Python<br>💬 Ask me about anything<br>⚡ Fun fact: I sing along K-pop and memorize lines from K-movies
