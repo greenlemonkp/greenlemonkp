@@ -1,4 +1,4 @@
-<h1>Hi, there!</h1> I'm Joon, self-motivated Full-stack developer<br><br>🔭 I’m currently working on a new project using React JS<br>👯 I’m looking to collaborate on any projects that involve new skills<br>🌱 I’m currently learning Typescript and Python<br>💬 Ask me about anything<br>⚡ Fun fact: I sing along K-pop and memorize lines from K-movies
+<h1>Hi, there!</h1> I'm Joon, self-motivated Full-stack developer <img<br><br>🔭 I’m currently working on a new project using React JS<br>👯 I’m looking to collaborate on any projects that involve new skills<br>🌱 I’m currently learning Typescript and Python<br>💬 Ask me about anything<br>⚡ Fun fact: I sing along K-pop and memorize lines from K-movies
 
 
 ## 🌐 Socials:
