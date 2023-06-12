@@ -4,7 +4,7 @@
 <br><br>
 ![kakao](https://media.tenor.com/GrfFKV30PYgAAAAC/ryan-typing.gif)<br>
 
-🔭 I’m currently working on a new project using React JS<br>👯 I’m looking to collaborate on any projects that involve new skills<br>🌱 I’m currently learning Typescript and Python<br>💬 Ask me about anything<br>⚡ Fun fact: I sing along K-pop and memorize lines from K-movies
+🔭 I’m currently working on a new project using Flutter and Dart<br>👯 I’m looking to collaborate on any projects that involve new skills<br>🌱 I’m currently learning Typescript and Python<br>💬 Ask me about anything<br>⚡ Fun fact: I sing along K-pop and memorize lines from K-movies
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joonlee1111) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@greenlemonkp) 
